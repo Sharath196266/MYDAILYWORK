@@ -1,5 +1,9 @@
 # MYDAILYWORK
-This repository contains some simple C++ tasks provided by MYDAILYWORK as part of an internship.
+This repository contains some simple C++ tasks provided by @MYDAILYWORK as part of an internship.
+
+author: @Sharath196266
+
+C++ Programming files
 1. library.cpp 
    system to manage books, borrowers, and transactions in a
 library.
